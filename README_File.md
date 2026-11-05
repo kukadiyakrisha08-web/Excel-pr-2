@@ -207,7 +207,7 @@ the highest overall product sales at **44,628.20**.
 
 ## 👨‍💻 Author
 
-**Name:** \[Your Name\]\
+**Name:** \[krisha kukadiya\]\
 **Project:** PR.2 Analyzer\
 **Technology:** Microsoft Excel\
 **Project Type:** Sales Data Analysis
